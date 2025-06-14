@@ -1,0 +1,41 @@
+﻿using System.Net.Http;
+using System.Threading.Tasks;
+using Domain.Interfaces;
+
+public class UsuarioService: IUsuarioService
+{
+    private readonly HttpClient _httpClient;
+
+    public UsuarioService(HttpClient httpClient)
+    {
+        _httpClient = httpClient;
+    }
+
+    public async Task<Guid> ObtenerUsuarioPorIdAsync(string correo)
+    {
+        var response = await _httpClient.GetAsync($"http://localhost:5001/api/usuarios/IdUsuario/{correo}");
+
+        if (!response.IsSuccessStatusCode)
+        {
+            Console.WriteLine($"❌ Error en la solicitud: {response.StatusCode}");
+            return Guid.Empty;
+        }
+
+        var guidString = await response.Content.ReadAsStringAsync();
+        Console.WriteLine($"🔹 GUID recibido desde el microservicio (antes de conversión): {guidString}");
+
+        if (Guid.TryParse(guidString.Trim('"'), out Guid userId))
+        {
+            return userId;
+        }
+        else
+        {
+            return Guid.Empty;
+        }
+    }
+
+
+
+
+}
+
