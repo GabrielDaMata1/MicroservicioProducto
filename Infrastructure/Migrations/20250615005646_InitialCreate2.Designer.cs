@@ -12,7 +12,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace Infrastructure.Migrations
 {
     [DbContext(typeof(SubastaDbContext))]
-    [Migration("20250608233312_InitialCreate2")]
+    [Migration("20250615005646_InitialCreate2")]
     partial class InitialCreate2
     {
         /// <inheritdoc />
@@ -55,6 +55,10 @@ namespace Infrastructure.Migrations
                         .HasColumnType("integer");
 
                     b.Property<string>("Descripcion")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("Estado")
                         .IsRequired()
                         .HasColumnType("text");
 

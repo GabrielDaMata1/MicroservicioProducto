@@ -27,6 +27,8 @@ namespace Infrastructure.Models.PostgreSQL
 
         [Required]
         public string ImagenURL { get; set; }
+        [Required]
+        public string Estado { get; set; }
 
         [Required]
         public Guid IdUsuario { get; set; }

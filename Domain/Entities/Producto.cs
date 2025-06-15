@@ -18,6 +18,8 @@ namespace Domain.Entities
         public PrecioBaseProductoVO PrecioBaseProducto { get; set; }
 
         public CategoriaProductoVO CategoriaProducto { get; set; }
+
+        public EstadoProductoVO EstadoProducto { get; set; }
         [JsonConstructor]
         public Producto(NombreProductoVO nombreProducto, DescripcionProductoVO descripcionProducto, ImagenURLProductoVO imagenUrlProducto, PrecioBaseProductoVO precioBaseProducto)
         {
@@ -26,10 +28,11 @@ namespace Domain.Entities
             DescripcionProducto = descripcionProducto;
             ImagenURLProducto = imagenUrlProducto;
             PrecioBaseProducto = precioBaseProducto;
+            EstadoProducto = new EstadoProductoVO("Disponible");
 
         }
 
-        public Producto(Guid id, NombreProductoVO nombreProducto, DescripcionProductoVO descripcionProducto, ImagenURLProductoVO imagenUrlProducto, PrecioBaseProductoVO precioBaseProducto, CategoriaProductoVO categoriaProducto)
+        public Producto(Guid id, NombreProductoVO nombreProducto, DescripcionProductoVO descripcionProducto, ImagenURLProductoVO imagenUrlProducto, PrecioBaseProductoVO precioBaseProducto, CategoriaProductoVO categoriaProducto, EstadoProductoVO estadoProducto)
         {
             Id = id;
             NombreProducto = nombreProducto;
@@ -37,16 +40,17 @@ namespace Domain.Entities
             ImagenURLProducto = imagenUrlProducto;
             PrecioBaseProducto = precioBaseProducto;
             CategoriaProducto= categoriaProducto;
-
+            EstadoProducto= estadoProducto;
         }
 
-        public Producto(Guid id,NombreProductoVO nombreProducto, DescripcionProductoVO descripcionProducto, ImagenURLProductoVO imagenUrlProducto, PrecioBaseProductoVO precioBaseProducto)
+        public Producto(Guid id,NombreProductoVO nombreProducto, DescripcionProductoVO descripcionProducto, ImagenURLProductoVO imagenUrlProducto, PrecioBaseProductoVO precioBaseProducto, EstadoProductoVO estadoProducto)
         {
             Id = id;
             NombreProducto = nombreProducto;
             DescripcionProducto = descripcionProducto;
             ImagenURLProducto = imagenUrlProducto;
             PrecioBaseProducto = precioBaseProducto;
+            EstadoProducto = estadoProducto;
 
         }
     }

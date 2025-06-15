@@ -38,7 +38,7 @@ namespace Application.Handler
 
                 var idCategoria = await _productoService.ObtenerIdCategoriaMongo(request.ProductoDto.CategoriaProducto);
 
-                var producto = ProductoFactory.CrearProductoConId(request.ProductoDto.Id, request.ProductoDto.NombreProducto, request.ProductoDto.DescripcionProducto, request.ProductoDto.ImagenURLProducto, request.ProductoDto.PrecioBaseProducto);
+                var producto = ProductoFactory.CrearProductoConId(request.ProductoDto.Id, request.ProductoDto.NombreProducto, request.ProductoDto.DescripcionProducto, request.ProductoDto.ImagenURLProducto, request.ProductoDto.PrecioBaseProducto, request.ProductoDto.EstadoProducto);
                 var productoId = await _productoService.ModificarProductoPostgreSQL(producto, idUsuario, idCategoria);
 
                 if (productoId != HttpStatusCode.OK)

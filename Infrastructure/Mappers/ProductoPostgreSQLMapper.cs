@@ -20,7 +20,8 @@ namespace Application.Mappers
                 ImagenURL = producto.ImagenURLProducto.url,
                 PrecioBase = producto.PrecioBaseProducto.precio,
                 CategoriaId = idCategoria,
-                IdUsuario = idUsuario
+                IdUsuario = idUsuario,
+                Estado = producto.EstadoProducto.estadoProducto
             };
         }
 

@@ -81,7 +81,8 @@ namespace Infrastructure.Repositories.MongoDB
                     new DescripcionProductoVO(p.Descripcion),
                     new ImagenURLProductoVO(p.ImagenURL),
                     new PrecioBaseProductoVO(p.PrecioBase),
-                    categoriaVO
+                    categoriaVO,
+                    new EstadoProductoVO(p.Estado)
                 );
 
                 productosMap.Add(producto);
@@ -104,7 +105,7 @@ namespace Infrastructure.Repositories.MongoDB
             var filtroCategoria = Builders<CategoriaMongo>.Filter.Eq(c => c.Id, productoMongo.CategoriaId);
             var categoria = await _categoriaCollection.Find(filtroCategoria).FirstOrDefaultAsync();
             var productoEntidad = ProductoFactory.CrearProductoConIdYCategoria(productoMongo.Id, productoMongo.Nombre,
-                productoMongo.Descripcion, productoMongo.ImagenURL, productoMongo.PrecioBase,categoria.nombre);
+                productoMongo.Descripcion, productoMongo.ImagenURL, productoMongo.PrecioBase,categoria.nombre,productoMongo.Estado);
 
             return productoEntidad;
         }

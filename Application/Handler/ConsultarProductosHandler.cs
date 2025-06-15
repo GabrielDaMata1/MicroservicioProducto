@@ -33,7 +33,7 @@ namespace Application.Handler
                 {
                     return new List<HistorialProductosDTO>();
                 }
-                return listaProductos.Select(h => new HistorialProductosDTO(h.Id, h.NombreProducto.Nombre, h.DescripcionProducto.descripcion, h.ImagenURLProducto.url, h.PrecioBaseProducto.precio, h.CategoriaProducto.categoria)).ToList();
+                return listaProductos.Select(h => new HistorialProductosDTO(h.Id, h.NombreProducto.Nombre, h.DescripcionProducto.descripcion, h.ImagenURLProducto.url, h.PrecioBaseProducto.precio, h.CategoriaProducto.categoria, h.EstadoProducto.estadoProducto)).ToList();
             }
             catch (System.Exception ex)
             {

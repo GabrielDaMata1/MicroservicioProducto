@@ -16,5 +16,7 @@ namespace Application.DTOs
         public decimal PrecioBaseProducto { get; set; }
 
         public string CategoriaProducto { get; set; }
+
+        public string EstadoProducto { get; set; }
     }
 }
