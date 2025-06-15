@@ -35,6 +35,7 @@ namespace Infrastructure.Migrations
                     PrecioBase = table.Column<decimal>(type: "numeric", nullable: false),
                     CategoriaId = table.Column<int>(type: "integer", nullable: false),
                     ImagenURL = table.Column<string>(type: "text", nullable: false),
+                    Estado = table.Column<string>(type: "text", nullable: false),
                     IdUsuario = table.Column<Guid>(type: "uuid", nullable: false)
                 },
                 constraints: table =>

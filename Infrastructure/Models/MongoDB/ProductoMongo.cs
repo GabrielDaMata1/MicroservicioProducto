@@ -25,6 +25,8 @@ namespace Infrastructure.Models.MongoDB
         public decimal PrecioBase { get; set; }
         [BsonElement("ImagenURL")]
         public string ImagenURL { get; set; }
+        [BsonElement("Estado")]
+        public string Estado { get; set; }
 
         [BsonElement("IdUsuario")]
         [BsonRepresentation(BsonType.String)]

@@ -33,12 +33,9 @@ namespace Infrastructure.Repositories.PostgreSQL
 
         public async Task<HttpStatusCode> ModificarProducto( Producto productoModificar, Guid idUsuario, int idCategoria)
         {
-            Console.WriteLine(productoModificar.Id.GetType());
-            Console.WriteLine(idUsuario.GetType());
             var producto = await _dbContext.Set<ProductoPostgreSQL>()
                 .FirstOrDefaultAsync(u => u.Id == Guid.Parse(productoModificar.Id.ToString())); ;
-            Console.WriteLine(productoModificar.Id.GetType());
-            Console.WriteLine(idUsuario.GetType());
+
 
 
             if (producto == null)
@@ -51,6 +48,7 @@ namespace Infrastructure.Repositories.PostgreSQL
             producto.PrecioBase = productoModificar.PrecioBaseProducto.precio;
             producto.CategoriaId = idCategoria;
             producto.IdUsuario=idUsuario;
+            producto.Estado = productoModificar.EstadoProducto.estadoProducto;
             _dbContext.Set<ProductoPostgreSQL>().Update(producto);
             await _dbContext.SaveChangesAsync();
             return HttpStatusCode.OK;

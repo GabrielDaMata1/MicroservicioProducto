@@ -30,7 +30,7 @@ namespace Application.Handler
                     throw new ProductoNoEncontradoException();
                 }
 
-                return new HistorialProductosDTO(producto.Id, producto.NombreProducto.Nombre, producto.DescripcionProducto.descripcion, producto.ImagenURLProducto.url, producto.PrecioBaseProducto.precio, producto.CategoriaProducto.categoria);
+                return new HistorialProductosDTO(producto.Id, producto.NombreProducto.Nombre, producto.DescripcionProducto.descripcion, producto.ImagenURLProducto.url, producto.PrecioBaseProducto.precio, producto.CategoriaProducto.categoria, producto.EstadoProducto.estadoProducto);
             }
             catch (ProductoNoEncontradoException)
             {

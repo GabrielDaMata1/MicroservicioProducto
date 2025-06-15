@@ -17,7 +17,9 @@ namespace Application.DTOs
         public decimal PrecioBaseProducto { get; set; }
 
         public string CategoriaProducto { get; set; }
-        public HistorialProductosDTO (Guid id,string nombreProducto, string descripcionProducto, string imagenUrl, decimal  precioBaseProducto, string categoria)
+
+        public string EstadoProducto { get; set; }
+        public HistorialProductosDTO (Guid id,string nombreProducto, string descripcionProducto, string imagenUrl, decimal  precioBaseProducto, string categoria, string estadoProducto)
         {
             Id = id;
             NombreProducto= nombreProducto;
@@ -25,6 +27,7 @@ namespace Application.DTOs
             ImagenURLProducto= imagenUrl;
             PrecioBaseProducto= precioBaseProducto;
             CategoriaProducto= categoria;
+            EstadoProducto= estadoProducto;
         }
     }
 }

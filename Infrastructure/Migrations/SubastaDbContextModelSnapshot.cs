@@ -55,6 +55,10 @@ namespace Infrastructure.Migrations
                         .IsRequired()
                         .HasColumnType("text");
 
+                    b.Property<string>("Estado")
+                        .IsRequired()
+                        .HasColumnType("text");
+
                     b.Property<Guid>("IdUsuario")
                         .HasColumnType("uuid");
 
