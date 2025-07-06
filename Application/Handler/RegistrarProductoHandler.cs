@@ -14,10 +14,22 @@ using MediatR;
 
 namespace Application.Handler
 {
+    /// <summary>
+    /// Clase Handler que se encarga registrar el producto de un subastador en las bases de datos (PostgreSQL,MongoDB) .
+    /// </summary>
     public class RegistrarProductoHandler : IRequestHandler<RegistrarProductoCommand, bool>
     {
+        /// <summary>
+        /// Atributo que corresponde a las publicación de mensajes a la cola de RabbitMQ.
+        /// </summary>
         private readonly IPublishEndpoint _publishEndpoint;
+        /// <summary>
+        /// Atributo que corresponde a las operaciones posibles que se pueden realizar sobre un producto, el cual será inyectado por inversión de dependencias.
+        /// </summary>
         private readonly IProductoService _productoService;
+        /// <summary>
+        /// Atributo que corresponde a las operaciones posibles que se pueden realizar sobre un usuario, el cual será inyectado por inversión de dependencias.
+        /// </summary>
         private readonly IUsuarioService _usuarioService;
 
         public RegistrarProductoHandler(IProductoService productoService, IPublishEndpoint publishEndpoint, IUsuarioService usuarioService)

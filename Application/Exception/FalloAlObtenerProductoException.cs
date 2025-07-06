@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Application.Exception
 {
+    /// <summary>
+    /// Clase Exception que se encarga de manejar los errores producidos al obtener los productos en las bases de datos (PostgreSQL, MongoDB).
+    /// </summary>
     public class FalloAlObtenerProductoException : System.Exception
     {
         public FalloAlObtenerProductoException() : base("Ha ocurrido un error al obtener el producto.") { }
