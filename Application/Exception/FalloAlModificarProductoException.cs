@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Application.Exception
 {
+    /// <summary>
+    /// Clase Exception que se encarga de manejar los errores producidos al modificar un producto en las bases de datos (PostgreSQL, MongoDB).
+    /// </summary>
     public class FalloAlModificarProductoException: System.Exception
     {
         public FalloAlModificarProductoException() : base("Ha ocurrido un error al modificar el producto.") { }
