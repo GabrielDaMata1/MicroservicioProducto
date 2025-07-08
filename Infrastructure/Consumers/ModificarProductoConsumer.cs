@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Application.Exception;
 using Domain.Events;
 using Domain.Interfaces;
 using MassTransit;
@@ -29,8 +30,16 @@ namespace Infrastructure.Consumers
         /// <param name="context">Parametro que contiene el ID de la categoria del producto, el ID del subastador del producto y un objeto Producto con sus datos.</param>
         public async Task Consume(ConsumeContext<ProductoModificadoEvent> context)
         {
-            //Se modifica el producto de la base de datos en MongoDB
-            await _productoService.ModificarProductoMongoAsync(context.Message.producto, context.Message.idCategoria, context.Message.idUsuario);
+            try
+            {
+                //Se modifica el producto de la base de datos en MongoDB
+                await _productoService.ModificarProductoMongoAsync(context.Message.producto, context.Message.idCategoria, context.Message.idUsuario);
+            }
+            catch (Exception ex)
+            {
+                throw new FalloAlEliminarProductoException($"Error al intentar modificar el producto de MongoDB {ex.Message}", ex);
+            }
+
         }
     }
 }

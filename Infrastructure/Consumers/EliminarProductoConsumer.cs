@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Application.Exception;
+using Application.Exceptions;
 using Domain.Events;
 using Domain.Interfaces;
 using MassTransit;
@@ -23,15 +25,22 @@ namespace Infrastructure.Consumers
         {
             _productoService = productoService;
         }
+
         /// <summary>
         /// Método que se encarga de procesar la eliminación del producto en la base de datos de MongoBD.
         /// </summary>
         /// <param name="context">Parametro que contiene el ID del producto a eliminar.</param>
         public async Task Consume(ConsumeContext<ProductoEliminadoEvent> context)
         {
-            //Se elimina el producto de la base de datos en MongoDB
-            await _productoService.EliminarProductoMongoAsync(context.Message.idProducto);
-
+            try
+            {
+                //Se elimina el producto de la base de datos en MongoDB
+                await _productoService.EliminarProductoMongoAsync(context.Message.idProducto);
+            }
+            catch (Exception ex)
+            {
+                throw new FalloAlEliminarProductoException($"Error al intentar eliminar el producto de MongoDB {ex.Message}", ex);
+            }
         }
     }
 }

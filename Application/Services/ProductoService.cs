@@ -182,7 +182,7 @@ namespace Application.Services
             try
             {
                 var resul = await _productoMongoRepository.EliminarProductoAsync(idProducto);
-                return HttpStatusCode.OK;
+                return resul? HttpStatusCode.OK: HttpStatusCode.NotFound;
             }
             catch (System.Exception ex)
             {
