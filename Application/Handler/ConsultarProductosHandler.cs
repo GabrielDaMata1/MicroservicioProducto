@@ -21,10 +21,15 @@ namespace Application.Handler
         /// Atributo que corresponde a las operaciones posibles que se pueden realizar sobre un producto, el cual será inyectado por inversión de dependencias.
         /// </summary>
         private readonly IProductoService _productoService;
+        /// <summary>
+        /// Atributo que corresponde a las operaciones posibles que se pueden realizar sobre un usuario en el Microservicio Usuarios, el cual será inyectado por inversión de dependencias.
+        /// </summary>
+        private readonly IUsuarioService _usuarioService;
 
-        public ConsultarProductosHandler(IProductoService productoService)
+        public ConsultarProductosHandler(IProductoService productoService, IUsuarioService usuarioService)
         {
             _productoService = productoService;
+            _usuarioService = usuarioService;
         }
         /// <summary>
         /// Metodo que se encarga de procesar la consulta para obtener todos los productos de un subastador.
@@ -39,9 +44,8 @@ namespace Application.Handler
 
             try
             {
-                var usuarioService = new UsuarioService(new HttpClient());
                 // Se obtiene el ID del subastador por medio de su correo en la base de datos en MongoDB
-                var idUsuario = await usuarioService.ObtenerUsuarioPorIdAsync(request.correo);
+                var idUsuario = await _usuarioService.ObtenerUsuarioPorIdAsync(request.correo);
 
                 // Se obtiene la lista de productos pertenecientes al subastador a través de la base de datos en MongoDB
                 var listaProductos = await _productoService.ObtenerProductosPorGuidMongoAsync(idUsuario);

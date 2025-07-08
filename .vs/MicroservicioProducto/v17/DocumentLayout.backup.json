@@ -1,0 +1,1050 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\testmicroservicioproducto\\webapitest\\productocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|solutionrelative:testmicroservicioproducto\\webapitest\\productocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\querys\\consultarproductosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\querys\\consultarproductosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\dtos\\historialproductosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\dtos\\historialproductosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\querys\\consultarproductoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\querys\\consultarproductoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8968AF-5DCE-4ADF-99A3-99DAA560E62F}|MicroservicioProducto\\MicroservicioProducto.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\microservicioproducto\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8968AF-5DCE-4ADF-99A3-99DAA560E62F}|MicroservicioProducto\\MicroservicioProducto.csproj|solutionrelative:microservicioproducto\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\testmicroservicioproducto\\repositoriestest\\productopostgresqlrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|solutionrelative:testmicroservicioproducto\\repositoriestest\\productopostgresqlrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\testmicroservicioproducto\\repositoriestest\\productomongorepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|solutionrelative:testmicroservicioproducto\\repositoriestest\\productomongorepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8D9B72-101B-44BA-8143-B454F9F0512C}|Infrastructure\\Infrastructure.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\infrastructure\\persistance\\subastadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8D9B72-101B-44BA-8143-B454F9F0512C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistance\\subastadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8D9B72-101B-44BA-8143-B454F9F0512C}|Infrastructure\\Infrastructure.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\infrastructure\\repositories\\postgresql\\productopostgresqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8D9B72-101B-44BA-8143-B454F9F0512C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\postgresql\\productopostgresqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8D9B72-101B-44BA-8143-B454F9F0512C}|Infrastructure\\Infrastructure.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\infrastructure\\repositories\\mongodb\\productomongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8D9B72-101B-44BA-8143-B454F9F0512C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\mongodb\\productomongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\testmicroservicioproducto\\consumerstest\\registrarproductoconsumertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|solutionrelative:testmicroservicioproducto\\consumerstest\\registrarproductoconsumertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8D9B72-101B-44BA-8143-B454F9F0512C}|Infrastructure\\Infrastructure.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\infrastructure\\consumers\\registrarproductoconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8D9B72-101B-44BA-8143-B454F9F0512C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\consumers\\registrarproductoconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\testmicroservicioproducto\\consumerstest\\modificarproductoconsumertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|solutionrelative:testmicroservicioproducto\\consumerstest\\modificarproductoconsumertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8D9B72-101B-44BA-8143-B454F9F0512C}|Infrastructure\\Infrastructure.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\infrastructure\\consumers\\modificarproductoconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8D9B72-101B-44BA-8143-B454F9F0512C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\consumers\\modificarproductoconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\testmicroservicioproducto\\servicetest\\productoservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|solutionrelative:testmicroservicioproducto\\servicetest\\productoservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\testmicroservicioproducto\\handlertest\\consultarproductohandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|solutionrelative:testmicroservicioproducto\\handlertest\\consultarproductohandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8D9B72-101B-44BA-8143-B454F9F0512C}|Infrastructure\\Infrastructure.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\infrastructure\\consumers\\eliminarproductoconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8D9B72-101B-44BA-8143-B454F9F0512C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\consumers\\eliminarproductoconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\testmicroservicioproducto\\consumerstest\\eliminarproductoconsumertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|solutionrelative:testmicroservicioproducto\\consumerstest\\eliminarproductoconsumertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\exception\\postgresrepositoryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\exception\\postgresrepositoryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\exception\\mongorepositoryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\exception\\mongorepositoryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\handler\\registrarproductohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\handler\\registrarproductohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\testmicroservicioproducto\\servicetest\\usuarioservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|solutionrelative:testmicroservicioproducto\\servicetest\\usuarioservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\testmicroservicioproducto\\handlertest\\registrarproductohandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|solutionrelative:testmicroservicioproducto\\handlertest\\registrarproductohandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\testmicroservicioproducto\\handlertest\\modificarproductohandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|solutionrelative:testmicroservicioproducto\\handlertest\\modificarproductohandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\handler\\modificarproductohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\handler\\modificarproductohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\testmicroservicioproducto\\handlertest\\eliminarproductohandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|solutionrelative:testmicroservicioproducto\\handlertest\\eliminarproductohandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\testmicroservicioproducto\\handlertest\\consultarproductoshandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|solutionrelative:testmicroservicioproducto\\handlertest\\consultarproductoshandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\handler\\consultarproductoshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\handler\\consultarproductoshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\handler\\consultarproductohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\handler\\consultarproductohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\testmicroservicioproducto\\handlertest\\consultaridusuarioproductoqueryhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|solutionrelative:testmicroservicioproducto\\handlertest\\consultaridusuarioproductoqueryhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\querys\\consultaridusuarioproductoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\querys\\consultaridusuarioproductoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\handler\\consultaridusuarioproductoqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\handler\\consultaridusuarioproductoqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\testmicroservicioproducto\\commandtest\\registrarproductocommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|solutionrelative:testmicroservicioproducto\\commandtest\\registrarproductocommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\dtos\\registrarproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\dtos\\registrarproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\command\\registrarproductocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\command\\registrarproductocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\command\\eliminarproductocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\command\\eliminarproductocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\testmicroservicioproducto\\commandtest\\modificarproductocommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|solutionrelative:testmicroservicioproducto\\commandtest\\modificarproductocommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\testmicroservicioproducto\\commandtest\\eliminarproductocommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C69F41B-813A-4483-9B41-F1FCE2448DD8}|TestMicroservicioProducto\\TestMicroservicioProducto.csproj|solutionrelative:testmicroservicioproducto\\commandtest\\eliminarproductocommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\dtos\\modificarproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\dtos\\modificarproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\command\\modificarproductocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\command\\modificarproductocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3A4709-726D-4B8A-B115-63931AA4BBFC}|Domain\\Domain.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3A4709-726D-4B8A-B115-63931AA4BBFC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8D9B72-101B-44BA-8143-B454F9F0512C}|Infrastructure\\Infrastructure.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\infrastructure\\models\\mongodb\\productomongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8D9B72-101B-44BA-8143-B454F9F0512C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\mongodb\\productomongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\handler\\eliminarproductohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\handler\\eliminarproductohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3A4709-726D-4B8A-B115-63931AA4BBFC}|Domain\\Domain.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\domain\\interfaces\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3A4709-726D-4B8A-B115-63931AA4BBFC}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\exception\\falloalobtenerproductoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\exception\\falloalobtenerproductoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\dtos\\resultadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\dtos\\resultadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\dtos\\eliminarproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\dtos\\eliminarproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\dtos\\consultarproductosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\dtos\\consultarproductosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8968AF-5DCE-4ADF-99A3-99DAA560E62F}|MicroservicioProducto\\MicroservicioProducto.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\microservicioproducto\\microservicioproducto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E8968AF-5DCE-4ADF-99A3-99DAA560E62F}|MicroservicioProducto\\MicroservicioProducto.csproj|solutionrelative:microservicioproducto\\microservicioproducto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8D9B72-101B-44BA-8143-B454F9F0512C}|Infrastructure\\Infrastructure.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\infrastructure\\mappers\\productomongomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8D9B72-101B-44BA-8143-B454F9F0512C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\mappers\\productomongomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3A4709-726D-4B8A-B115-63931AA4BBFC}|Domain\\Domain.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\domain\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3A4709-726D-4B8A-B115-63931AA4BBFC}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3A4709-726D-4B8A-B115-63931AA4BBFC}|Domain\\Domain.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\domain\\interfaces\\iproductomongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3A4709-726D-4B8A-B115-63931AA4BBFC}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iproductomongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3A4709-726D-4B8A-B115-63931AA4BBFC}|Domain\\Domain.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\domain\\events\\productoregistradoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3A4709-726D-4B8A-B115-63931AA4BBFC}|Domain\\Domain.csproj|solutionrelative:domain\\events\\productoregistradoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3A4709-726D-4B8A-B115-63931AA4BBFC}|Domain\\Domain.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\domain\\events\\productomodificadoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3A4709-726D-4B8A-B115-63931AA4BBFC}|Domain\\Domain.csproj|solutionrelative:domain\\events\\productomodificadoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3A4709-726D-4B8A-B115-63931AA4BBFC}|Domain\\Domain.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\domain\\events\\productoeliminadoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3A4709-726D-4B8A-B115-63931AA4BBFC}|Domain\\Domain.csproj|solutionrelative:domain\\events\\productoeliminadoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\exception\\usuarionoencontradoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\exception\\usuarionoencontradoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicioproducto\\application\\exception\\falloaleliminarproductoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFC8621-05CA-444A-9E8A-0EB67F3DB997}|Application\\Application.csproj|solutionrelative:application\\exception\\falloaleliminarproductoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 208,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Services\\ProductoService.cs",
+              "RelativeToolTip": "Application\\Services\\ProductoService.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAswLcAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T06:54:08.007Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HistorialProductosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\DTOs\\HistorialProductosDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\HistorialProductosDTO.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\DTOs\\HistorialProductosDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\HistorialProductosDTO.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T20:28:24.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsultarProductosQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Querys\\ConsultarProductosQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Querys\\ConsultarProductosQuery.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Querys\\ConsultarProductosQuery.cs",
+              "RelativeToolTip": "Application\\Querys\\ConsultarProductosQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T20:27:09.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\WebAPITest\\ProductoControllerTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioProducto\\WebAPITest\\ProductoControllerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\WebAPITest\\ProductoControllerTest.cs",
+              "RelativeToolTip": "TestMicroservicioProducto\\WebAPITest\\ProductoControllerTest.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAIwJMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T20:25:18.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\MicroservicioProducto\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "MicroservicioProducto\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\MicroservicioProducto\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "MicroservicioProducto\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T20:23:06.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsultarProductoQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Querys\\ConsultarProductoQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Querys\\ConsultarProductoQuery.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Querys\\ConsultarProductoQuery.cs",
+              "RelativeToolTip": "Application\\Querys\\ConsultarProductoQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:59:40.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoPostgreSQLRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\RepositoriesTest\\ProductoPostgreSQLRepositoryTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioProducto\\RepositoriesTest\\ProductoPostgreSQLRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\RepositoriesTest\\ProductoPostgreSQLRepositoryTest.cs",
+              "RelativeToolTip": "TestMicroservicioProducto\\RepositoriesTest\\ProductoPostgreSQLRepositoryTest.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:53:43.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoMongoRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\RepositoriesTest\\ProductoMongoRepositoryTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioProducto\\RepositoriesTest\\ProductoMongoRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\RepositoriesTest\\ProductoMongoRepositoryTest.cs",
+              "RelativeToolTip": "TestMicroservicioProducto\\RepositoriesTest\\ProductoMongoRepositoryTest.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:50:56.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductoPostgreSQLRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Infrastructure\\Repositories\\PostgreSQL\\ProductoPostgreSQLRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\PostgreSQL\\ProductoPostgreSQLRepository.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Infrastructure\\Repositories\\PostgreSQL\\ProductoPostgreSQLRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\PostgreSQL\\ProductoPostgreSQLRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwE8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:42:40.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubastaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Infrastructure\\Persistance\\SubastaDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistance\\SubastaDbContext.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Infrastructure\\Persistance\\SubastaDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistance\\SubastaDbContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wCcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:39:23.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistrarProductoConsumerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\ConsumersTest\\RegistrarProductoConsumerTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioProducto\\ConsumersTest\\RegistrarProductoConsumerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\ConsumersTest\\RegistrarProductoConsumerTest.cs",
+              "RelativeToolTip": "TestMicroservicioProducto\\ConsumersTest\\RegistrarProductoConsumerTest.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:45:10.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductoMongoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Infrastructure\\Repositories\\MongoDB\\ProductoMongoRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\MongoDB\\ProductoMongoRepository.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Infrastructure\\Repositories\\MongoDB\\ProductoMongoRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\MongoDB\\ProductoMongoRepository.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAowJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:40:19.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegistrarProductoConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Infrastructure\\Consumers\\RegistrarProductoConsumer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Consumers\\RegistrarProductoConsumer.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Infrastructure\\Consumers\\RegistrarProductoConsumer.cs",
+              "RelativeToolTip": "Infrastructure\\Consumers\\RegistrarProductoConsumer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:45:12.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ModificarProductoConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Infrastructure\\Consumers\\ModificarProductoConsumer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Consumers\\ModificarProductoConsumer.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Infrastructure\\Consumers\\ModificarProductoConsumer.cs",
+              "RelativeToolTip": "Infrastructure\\Consumers\\ModificarProductoConsumer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:41:59.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ModificarProductoConsumerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\ConsumersTest\\ModificarProductoConsumerTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioProducto\\ConsumersTest\\ModificarProductoConsumerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\ConsumersTest\\ModificarProductoConsumerTest.cs",
+              "RelativeToolTip": "TestMicroservicioProducto\\ConsumersTest\\ModificarProductoConsumerTest.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:41:58.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConsultarProductoHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\HandlerTest\\ConsultarProductoHandlerTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioProducto\\HandlerTest\\ConsultarProductoHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\HandlerTest\\ConsultarProductoHandlerTest.cs",
+              "RelativeToolTip": "TestMicroservicioProducto\\HandlerTest\\ConsultarProductoHandlerTest.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:58:28.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductoServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\ServiceTest\\ProductoServiceTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioProducto\\ServiceTest\\ProductoServiceTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\ServiceTest\\ProductoServiceTest.cs",
+              "RelativeToolTip": "TestMicroservicioProducto\\ServiceTest\\ProductoServiceTest.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:37:16.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EliminarProductoConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Infrastructure\\Consumers\\EliminarProductoConsumer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Consumers\\EliminarProductoConsumer.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Infrastructure\\Consumers\\EliminarProductoConsumer.cs",
+              "RelativeToolTip": "Infrastructure\\Consumers\\EliminarProductoConsumer.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:34:33.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EliminarProductoConsumerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\ConsumersTest\\EliminarProductoConsumerTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioProducto\\ConsumersTest\\EliminarProductoConsumerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\ConsumersTest\\EliminarProductoConsumerTest.cs",
+              "RelativeToolTip": "TestMicroservicioProducto\\ConsumersTest\\EliminarProductoConsumerTest.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:20:17.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MongoRepositoryException.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Exception\\MongoRepositoryException.cs",
+              "RelativeDocumentMoniker": "Application\\Exception\\MongoRepositoryException.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Exception\\MongoRepositoryException.cs",
+              "RelativeToolTip": "Application\\Exception\\MongoRepositoryException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:02:21.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PostgresRepositoryException.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Exception\\PostgresRepositoryException.cs",
+              "RelativeDocumentMoniker": "Application\\Exception\\PostgresRepositoryException.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Exception\\PostgresRepositoryException.cs",
+              "RelativeToolTip": "Application\\Exception\\PostgresRepositoryException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:04:04.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Application\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T06:46:24.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegistrarProductoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Handler\\RegistrarProductoHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handler\\RegistrarProductoHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Handler\\RegistrarProductoHandler.cs",
+              "RelativeToolTip": "Application\\Handler\\RegistrarProductoHandler.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwC4AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:20:24.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UsuarioServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\ServiceTest\\UsuarioServiceTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioProducto\\ServiceTest\\UsuarioServiceTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\ServiceTest\\UsuarioServiceTest.cs",
+              "RelativeToolTip": "TestMicroservicioProducto\\ServiceTest\\UsuarioServiceTest.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAADwv5gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:24:33.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ModificarProductoHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\HandlerTest\\ModificarProductoHandlerTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioProducto\\HandlerTest\\ModificarProductoHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\HandlerTest\\ModificarProductoHandlerTest.cs",
+              "RelativeToolTip": "TestMicroservicioProducto\\HandlerTest\\ModificarProductoHandlerTest.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwDYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:08:18.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ConsultarProductosHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\HandlerTest\\ConsultarProductosHandlerTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioProducto\\HandlerTest\\ConsultarProductosHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\HandlerTest\\ConsultarProductosHandlerTest.cs",
+              "RelativeToolTip": "TestMicroservicioProducto\\HandlerTest\\ConsultarProductosHandlerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:02:34.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegistrarProductoHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\HandlerTest\\RegistrarProductoHandlerTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioProducto\\HandlerTest\\RegistrarProductoHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\HandlerTest\\RegistrarProductoHandlerTest.cs",
+              "RelativeToolTip": "TestMicroservicioProducto\\HandlerTest\\RegistrarProductoHandlerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:21:25.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ConsultarProductosHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Handler\\ConsultarProductosHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handler\\ConsultarProductosHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Handler\\ConsultarProductosHandler.cs",
+              "RelativeToolTip": "Application\\Handler\\ConsultarProductosHandler.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwD8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:29:53.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EliminarProductoHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\HandlerTest\\EliminarProductoHandlerTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioProducto\\HandlerTest\\EliminarProductoHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\HandlerTest\\EliminarProductoHandlerTest.cs",
+              "RelativeToolTip": "TestMicroservicioProducto\\HandlerTest\\EliminarProductoHandlerTest.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:35:12.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ModificarProductoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Handler\\ModificarProductoHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handler\\ModificarProductoHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Handler\\ModificarProductoHandler.cs",
+              "RelativeToolTip": "Application\\Handler\\ModificarProductoHandler.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:30:00.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ConsultarIdUsuarioProductoQueryHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\HandlerTest\\ConsultarIdUsuarioProductoQueryHandlerTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioProducto\\HandlerTest\\ConsultarIdUsuarioProductoQueryHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\HandlerTest\\ConsultarIdUsuarioProductoQueryHandlerTest.cs",
+              "RelativeToolTip": "TestMicroservicioProducto\\HandlerTest\\ConsultarIdUsuarioProductoQueryHandlerTest.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:52:55.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RegistrarProductoCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\CommandTest\\RegistrarProductoCommandTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioProducto\\CommandTest\\RegistrarProductoCommandTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\CommandTest\\RegistrarProductoCommandTest.cs",
+              "RelativeToolTip": "TestMicroservicioProducto\\CommandTest\\RegistrarProductoCommandTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:50:29.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RegistrarProductoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\DTOs\\RegistrarProductoDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\RegistrarProductoDTO.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\DTOs\\RegistrarProductoDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\RegistrarProductoDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:50:40.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ConsultarIdUsuarioProductoQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Querys\\ConsultarIdUsuarioProductoQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Querys\\ConsultarIdUsuarioProductoQuery.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Querys\\ConsultarIdUsuarioProductoQuery.cs",
+              "RelativeToolTip": "Application\\Querys\\ConsultarIdUsuarioProductoQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T06:43:02.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ConsultarProductoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Handler\\ConsultarProductoHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handler\\ConsultarProductoHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Handler\\ConsultarProductoHandler.cs",
+              "RelativeToolTip": "Application\\Handler\\ConsultarProductoHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:29:50.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RegistrarProductoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Command\\RegistrarProductoCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Command\\RegistrarProductoCommand.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Command\\RegistrarProductoCommand.cs",
+              "RelativeToolTip": "Application\\Command\\RegistrarProductoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:49:10.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ConsultarIdUsuarioProductoQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Handler\\ConsultarIdUsuarioProductoQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handler\\ConsultarIdUsuarioProductoQueryHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Handler\\ConsultarIdUsuarioProductoQueryHandler.cs",
+              "RelativeToolTip": "Application\\Handler\\ConsultarIdUsuarioProductoQueryHandler.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:07:18.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ModificarProductoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\DTOs\\ModificarProductoDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ModificarProductoDTO.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\DTOs\\ModificarProductoDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\ModificarProductoDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:36:48.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ModificarProductoCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\CommandTest\\ModificarProductoCommandTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioProducto\\CommandTest\\ModificarProductoCommandTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\CommandTest\\ModificarProductoCommandTest.cs",
+              "RelativeToolTip": "TestMicroservicioProducto\\CommandTest\\ModificarProductoCommandTest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:31:01.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EliminarProductoCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\CommandTest\\EliminarProductoCommandTest.cs",
+              "RelativeDocumentMoniker": "TestMicroservicioProducto\\CommandTest\\EliminarProductoCommandTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\TestMicroservicioProducto\\CommandTest\\EliminarProductoCommandTest.cs",
+              "RelativeToolTip": "TestMicroservicioProducto\\CommandTest\\EliminarProductoCommandTest.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:14:45.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EliminarProductoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Command\\EliminarProductoCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Command\\EliminarProductoCommand.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Command\\EliminarProductoCommand.cs",
+              "RelativeToolTip": "Application\\Command\\EliminarProductoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T01:49:28.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ModificarProductoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Command\\ModificarProductoCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Command\\ModificarProductoCommand.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Command\\ModificarProductoCommand.cs",
+              "RelativeToolTip": "Application\\Command\\ModificarProductoCommand.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:27:50.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProductoMongo.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Infrastructure\\Models\\MongoDB\\ProductoMongo.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\MongoDB\\ProductoMongo.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Infrastructure\\Models\\MongoDB\\ProductoMongo.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\MongoDB\\ProductoMongo.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:20:05.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EliminarProductoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Handler\\EliminarProductoHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handler\\EliminarProductoHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Handler\\EliminarProductoHandler.cs",
+              "RelativeToolTip": "Application\\Handler\\EliminarProductoHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:29:56.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Domain\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Producto.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Domain\\Entities\\Producto.cs",
+              "RelativeToolTip": "Domain\\Entities\\Producto.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwvzcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:08:38.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Domain\\Interfaces\\IProductoService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IProductoService.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Domain\\Interfaces\\IProductoService.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IProductoService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:27:45.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FalloAlObtenerProductoException.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Exception\\FalloAlObtenerProductoException.cs",
+              "RelativeDocumentMoniker": "Application\\Exception\\FalloAlObtenerProductoException.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Exception\\FalloAlObtenerProductoException.cs",
+              "RelativeToolTip": "Application\\Exception\\FalloAlObtenerProductoException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:44:59.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EliminarProductoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\DTOs\\EliminarProductoDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\EliminarProductoDTO.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\DTOs\\EliminarProductoDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\EliminarProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:08:34.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ProductoMongoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Infrastructure\\Mappers\\ProductoMongoMapper.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Mappers\\ProductoMongoMapper.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Infrastructure\\Mappers\\ProductoMongoMapper.cs",
+              "RelativeToolTip": "Infrastructure\\Mappers\\ProductoMongoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:37:18.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ResultadoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\DTOs\\ResultadoDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ResultadoDTO.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\DTOs\\ResultadoDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\ResultadoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T04:54:42.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ConsultarProductosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\DTOs\\ConsultarProductosDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ConsultarProductosDTO.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\DTOs\\ConsultarProductosDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\ConsultarProductosDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:50:14.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MicroservicioProducto.csproj",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\MicroservicioProducto\\MicroservicioProducto.csproj",
+              "RelativeDocumentMoniker": "MicroservicioProducto\\MicroservicioProducto.csproj",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\MicroservicioProducto\\MicroservicioProducto.csproj",
+              "RelativeToolTip": "MicroservicioProducto\\MicroservicioProducto.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-06T07:43:25.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Domain\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Domain\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:29:36.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IProductoMongoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Domain\\Interfaces\\IProductoMongoRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IProductoMongoRepository.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Domain\\Interfaces\\IProductoMongoRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IProductoMongoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:26:23.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ProductoRegistradoEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Domain\\Events\\ProductoRegistradoEvent.cs",
+              "RelativeDocumentMoniker": "Domain\\Events\\ProductoRegistradoEvent.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Domain\\Events\\ProductoRegistradoEvent.cs",
+              "RelativeToolTip": "Domain\\Events\\ProductoRegistradoEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:23:18.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ProductoModificadoEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Domain\\Events\\ProductoModificadoEvent.cs",
+              "RelativeDocumentMoniker": "Domain\\Events\\ProductoModificadoEvent.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Domain\\Events\\ProductoModificadoEvent.cs",
+              "RelativeToolTip": "Domain\\Events\\ProductoModificadoEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:23:15.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ProductoEliminadoEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Domain\\Events\\ProductoEliminadoEvent.cs",
+              "RelativeDocumentMoniker": "Domain\\Events\\ProductoEliminadoEvent.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Domain\\Events\\ProductoEliminadoEvent.cs",
+              "RelativeToolTip": "Domain\\Events\\ProductoEliminadoEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:23:11.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UsuarioNoEncontradoException.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Exception\\UsuarioNoEncontradoException.cs",
+              "RelativeDocumentMoniker": "Application\\Exception\\UsuarioNoEncontradoException.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Exception\\UsuarioNoEncontradoException.cs",
+              "RelativeToolTip": "Application\\Exception\\UsuarioNoEncontradoException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:04:20.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FalloAlEliminarProductoException.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Exception\\FalloAlEliminarProductoException.cs",
+              "RelativeDocumentMoniker": "Application\\Exception\\FalloAlEliminarProductoException.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroservicioProducto\\Application\\Exception\\FalloAlEliminarProductoException.cs",
+              "RelativeToolTip": "Application\\Exception\\FalloAlEliminarProductoException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T04:59:21.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
